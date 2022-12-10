@@ -9,7 +9,7 @@ on:
 # functions (what needs to be done)
 jobs:
   build:
-    name:Build
+    name: Build
     runs-on: ubuntu-latest
 
     steps:
